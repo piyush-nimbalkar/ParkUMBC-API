@@ -5,3 +5,8 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+
+ParkingLot.create(name: 'LOT 1', capacity: 30, current_count: 4)
+ParkingLot.create(name: 'LOT 2', capacity: 20, current_count: 18)
+ParkingLot.create(name: 'LOT 3', capacity: 25, current_count: 25)
