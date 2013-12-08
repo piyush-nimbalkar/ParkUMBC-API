@@ -9,4 +9,4 @@
 
 ParkingLot.create(name: 'LOT 1', capacity: 30, current_count: 4)
 ParkingLot.create(name: 'LOT 2', capacity: 20, current_count: 18)
-ParkingLot.create(name: 'LOT 3', capacity: 25, current_count: 25)
+# ParkingLot.create(name: 'LOT 3', capacity: 25, current_count: 25)
